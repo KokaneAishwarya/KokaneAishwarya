@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kokane Aishwarya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Portfolio Website**
+- 🔭 I’m currently working as **Softwear Developer**
 
 - 🌱 I’m currently learning **React**
 
